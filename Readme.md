@@ -27,7 +27,7 @@ cidr-block 10.0.0.0/16
 ![](./Img/Screenshot%20(92).png)
 
 ### Step 2 :- Create subnets for Web, App, and DB 
- Create two subnets for DB one in Availability Zone A & Availability Zone B (for RDS DB subnet group)
+ Create two subnets for DB one in Availability Zone A & one in Availability Zone B (for RDS DB subnet group)
 
 ![](./Img/Screenshot%20(93).png)
 
